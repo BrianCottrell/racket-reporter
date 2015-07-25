@@ -1,0 +1,11 @@
+{
+  "name": "racket-reporter",
+  "version": "1.0.0",
+  "description": "AT&T Mobile App Hackathon Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Cottrell",
+  "license": "ISC"
+}
